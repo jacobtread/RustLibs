@@ -80,3 +80,14 @@ Super fast compile time templating using derive macros
 [GitHub](https://github.com/sunng87/handlebars-rust)
 
 Runtime templating which can load many handlebars files from a directory
+
+
+## Embedding files
+
+**rust-embed**
+
+[Docs.rs](https://docs.rs/rust-embed/latest/rust_embed/)
+[Crates.io](https://crates.io/crates/rust-embed)
+[GitHub](https://github.com/pyros2097/rust-embed)
+
+Useful for embedding entire directories into your binary
